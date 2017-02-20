@@ -1,6 +1,6 @@
 # marathon-slack
 
-[![NSP Status](https://nodesecurity.io/orgs/tobilg/projects/bb967956-9682-4b37-9e41-68852d242d7a/badge)](https://nodesecurity.io/orgs/tobilg/projects/bb967956-9682-4b37-9e41-68852d242d7a) 
+[![NSP Status](https://nodesecurity.io/orgs/jordanwilson230/projects/bb967956-9682-4b37-9e41-68852d242d7a/badge)](https://nodesecurity.io/orgs/jordanwilson230/projects/bb967956-9682-4b37-9e41-68852d242d7a) 
 
 Listen to Marathon's Event Bus and send selected event types to a Slack WebHook!
 
@@ -88,7 +88,7 @@ You can run this on Marathon like this:
   "container": {
     "type": "DOCKER",
     "docker": {
-      "image": "tobilg/marathon-slack:0.3.0",
+      "image": "jordanwilson230/marathon-slack:0.3.0",
       "network": "HOST",
       "privileged": false,
       "parameters": [],

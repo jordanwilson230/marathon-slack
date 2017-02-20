@@ -1,6 +1,6 @@
 FROM mhart/alpine-node:6
 
-MAINTAINER tobilg@gmail.com
+MAINTAINER jordanwilson230@gmail.com
 
 # Set application name
 ENV APP_NAME marathon-slack
