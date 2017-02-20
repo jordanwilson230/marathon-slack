@@ -9,8 +9,8 @@ const SlackHandler = require("./lib/SlackHandler");
 
 // Define Marathon options
 let options = {
-    marathonUrl: process.env.MARATHON_HOST || "master.mesos",
-    marathonPort: process.env.MARATHON_PORT || 8080,
+    marathonUrl: process.env.MARATHON_HOST,
+    marathonPort: process.env.MARATHON_PORT || 80,
     marathonProtocol: process.env.MARATHON_PROTOCOL || "http"
 };
 

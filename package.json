@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tobilg/marathon-slack.git"
+    "url": "git+https://github.com/jordanwilson230/marathon-slack.git"
   },
   "keywords": [
     "Mesos",
@@ -21,15 +21,15 @@
     "webhook"
   ],
   "author": {
-    "name": "TobiLG",
-    "email": "tobilg@gmail.com",
-    "url": "https://github.com/tobilg"
+    "name": "Jordan Wilson",
+    "email": "jordanwilson230@gmail.com",
+    "url": "https://github.com/jordanwilson230"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tobilg/marathon-slack/issues"
+    "url": "https://github.com/jordanwilson/marathon-slack/issues"
   },
-  "homepage": "https://github.com/tobilg/marathon-slack#readme",
+  "homepage": "https://github.com/jordanwilson/marathon-slack#readme",
   "dependencies": {
     "marathon-event-bus-client": "^0.1.2",
     "request": "^2.74.0",
