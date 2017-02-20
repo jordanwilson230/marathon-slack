@@ -16,7 +16,7 @@ let options = {
 
 // Instantiate SlackHandler
 const slackHandler = new SlackHandler({
-    slackWebHook: process.env.SLACK_WEBHOOK_URL,
+    slackWebHook: process.env.SLACK_WEBHOOK_URL || "https://hooks.slack.com/services/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",
     slackChannel: process.env.SLACK_CHANNEL || "#marathon",
     marathonUrl: options.marathonUrl,
     marathonPort: options.marathonPort
