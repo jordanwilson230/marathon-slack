@@ -20,11 +20,7 @@
     "event bus",
     "webhook"
   ],
-  "author": {
-    "name": "Jordan Wilson",
-    "email": "jordanwilson230@gmail.com",
-    "url": "https://github.com/jordanwilson230"
-  },
+  "author": "Jordan Wilson <jordanwilson230@gmail.com> (https://github.com/jordanwilson230)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jordanwilson230/marathon-slack/issues"
